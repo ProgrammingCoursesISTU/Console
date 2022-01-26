@@ -1,0 +1,16 @@
+C:\Users\borat\Desktop\Lection_1\bin\Debug\net5.0\Lection_1.exe
+C:\Users\borat\Desktop\Lection_1\bin\Debug\net5.0\Lection_1.deps.json
+C:\Users\borat\Desktop\Lection_1\bin\Debug\net5.0\Lection_1.runtimeconfig.json
+C:\Users\borat\Desktop\Lection_1\bin\Debug\net5.0\Lection_1.runtimeconfig.dev.json
+C:\Users\borat\Desktop\Lection_1\bin\Debug\net5.0\Lection_1.dll
+C:\Users\borat\Desktop\Lection_1\bin\Debug\net5.0\ref\Lection_1.dll
+C:\Users\borat\Desktop\Lection_1\bin\Debug\net5.0\Lection_1.pdb
+C:\Users\borat\Desktop\Lection_1\obj\Debug\net5.0\Lection_1.csproj.AssemblyReference.cache
+C:\Users\borat\Desktop\Lection_1\obj\Debug\net5.0\Lection_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borat\Desktop\Lection_1\obj\Debug\net5.0\Lection_1.AssemblyInfoInputs.cache
+C:\Users\borat\Desktop\Lection_1\obj\Debug\net5.0\Lection_1.AssemblyInfo.cs
+C:\Users\borat\Desktop\Lection_1\obj\Debug\net5.0\Lection_1.csproj.CoreCompileInputs.cache
+C:\Users\borat\Desktop\Lection_1\obj\Debug\net5.0\Lection_1.dll
+C:\Users\borat\Desktop\Lection_1\obj\Debug\net5.0\ref\Lection_1.dll
+C:\Users\borat\Desktop\Lection_1\obj\Debug\net5.0\Lection_1.pdb
+C:\Users\borat\Desktop\Lection_1\obj\Debug\net5.0\Lection_1.genruntimeconfig.cache
